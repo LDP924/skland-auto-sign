@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 敏感信息 — 不进版本控制
+creds.txt
+
+# 日志
+sign_log.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# WorkBuddy 工作目录
+.workbuddy/
+.codebuddy/
